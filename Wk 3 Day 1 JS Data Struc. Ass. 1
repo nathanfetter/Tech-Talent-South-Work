@@ -1,0 +1,19 @@
+<DOCTYPE! html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Week 3 Day 1 JS Array Clone</title>
+		<link rel="stylesheet" type="text/css">
+	</head>
+	<body>
+
+	</body>
+
+	<script>
+	<script>//Exercise 1: Write a Javascript function to clone an array.
+
+  identity = (const) => ["potion1", "potion2", "potion3"];
+	constant.map(identity);
+	</script>
+
+</html>

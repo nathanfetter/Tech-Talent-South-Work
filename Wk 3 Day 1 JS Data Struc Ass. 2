@@ -1,0 +1,20 @@
+<DOCTYPE! html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Week 3 Day 1 JS Array Clone</title>
+		<link rel="stylesheet" type="text/css">
+	</head>
+	<body>
+
+	</body>
+
+<script>//Exercise 2: Write a simple JavaScript program to join all elements of the following array into a string.
+
+  var items: myColor = ["Red", "Green", "White", "Black"];
+
+  if (items == [1, 2, 3, 4])
+  console.log(items["Red, Green, White, Black"]);
+	</script>
+
+</html>
